@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: eb26ae92e0b9bfa4696fae08c1c96471
+guid: 4f1276e311fbf4b4d9397b6b8bbfbf15
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8743913228891935403
-    second: Interact hand_0
+      213: 5360706463071868214
+    second: Shotgun shell_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -23,7 +23,7 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
-  isReadable: 1
+  isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
@@ -35,7 +35,7 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: -1
-    aniso: 1
+    aniso: -1
     mipBias: -100
     wrapU: 1
     wrapV: 1
@@ -44,12 +44,12 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 2
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 889, y: 460, z: 896, w: 465}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -102,13 +102,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Interact hand_0
+      name: Shotgun shell_0
       rect:
         serializedVersion: 2
-        x: 881
-        y: 467
-        width: 153
-        height: 138
+        x: 1565
+        y: 101
+        width: 61
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -116,8 +116,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba251f221ce985970800000000000000
-      internalID: 8743913228891935403
+      spriteID: 6351a8c302e056a40800000000000000
+      internalID: 5360706463071868214
       vertices: []
       indices: 
       edges: []
